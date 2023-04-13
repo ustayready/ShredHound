@@ -7,7 +7,6 @@ Split a large BloodHound JSON file into a bunch of smaller files for faster impo
 Follow me on Twitter ([Mike Felch - @ustayready](https://twitter.com/ustayready)) 
 
 ## Basic Usage ##
-### Requires OpenAI API key
 ```
 usage: shred.py [-h] --output OUTPUT --filename FILENAME [--chunks CHUNKS]
 
